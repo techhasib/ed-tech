@@ -43,3 +43,23 @@ body {
   .social-links a:hover {
     color: #289bde;
   }
+
+  
+/* Carousel Responsive */
+@media (max-width: 576px) {
+    .header-carousel-caption {
+      top: 0%;
+      right: 2%;
+      left: 2%;
+    }
+    .header-carousel-caption h1 {
+      font-size: 22px;
+    }
+    .header-carousel-caption p {
+      font-size: 14px;
+      font-weight: 200;
+    }
+    .header-carousel-caption button {
+      font-size: 14px;
+    }
+  }
