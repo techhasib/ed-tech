@@ -1,3 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+/* Custom Colors */
+.background-sky-blue {
+  background-color: #289bde;
+}
+.color-sky-blue {
+  color: #289bde;
+}
+.background-light-blue {
+  background-color: rgba(40, 155, 222, 0.1);
+}
+.color-lighter-gray {
+  color: #f4f4f4;
+}
+.color-white {
+  color: #fff;
+}
+.color-light-gray {
+  color: #777777;
+}
+.color-dark-gray {
+  color: #4a4a4a;
+}
+
+
 /* Carousel Image Darken */
 .carousel-item img {
     filter: brightness(40%);
