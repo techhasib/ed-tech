@@ -28,7 +28,7 @@ body {
 
 /* Carousel Image Darken */
 .carousel-item img {
-    filter: brightness(40%);
+    filter: brightness(50%);
   }
   .max-width-text {
     max-width: 500px;
